@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93" started-at="2021-11-01T22:47:21 IST" finished-at="2021-11-01T22:47:21 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93" started-at="2021-11-01T22:47:21 IST" finished-at="2021-11-01T22:47:21 IST">
+      <class name="com.testng.TestNGFramework.Task">
+        <test-method status="PASS" signature="repeatedProgram()[pri:0, instance:com.testng.TestNGFramework.Task@76f2b07d]" name="repeatedProgram" duration-ms="30" started-at="2021-11-01T22:47:21 IST" finished-at="2021-11-01T22:47:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repeatedProgram -->
+      </class> <!-- com.testng.TestNGFramework.Task -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
